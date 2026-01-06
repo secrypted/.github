@@ -1,4 +1,4 @@
-<h1 align=center><strong>CHAT 💬 X.509</strong></h1>
+<h1 align=center>CRYPTO TRUSTED</h1>
 
 ## Secure Instant Messenger та українські PKI-сервіси на базі X.509
 
