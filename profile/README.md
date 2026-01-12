@@ -4,10 +4,10 @@
 
 ## Основні продукти
 
-* **[mail](https://github.com/erpuno/mail)** — Чат Месанжер Сохацького v0 на ASN.1 з імплементація на WebSocket і текстовим протоколом.
-* **[mqtt](https://github.com/erpuno/mqtt)** — Чат Месанжер Сохацького v1 на BERT/ETF і MQTT.
-* **[chat](https://github.com/zencrypted/chat)** — Безпечний сервер Чат Месанжера Сохацького v2 на Elixir на X.509, CMS, PKCS та ASN.1.
-* **[message](https://github.com/zencrypted/message)** — Легкий Захищений Чат Месенжер Сохацького v3 без залежностей на SwiftUI для macOS і iOS.
+* **[mail](https://github.com/erpuno/mail)** — Перший Чат Месанжер Сохацького v0 на WebSocket з текстовим і ASN.1 протоколами.
+* **[mqtt](https://github.com/erpuno/mqtt)** — Глобальний Чат Месанжер Сохацького v1 на MQTT з BEER/ETF протоколом.
+* **[chat](https://github.com/zencrypted/chat)** — Безпечний Чат Месанжер Сохацького v2 на Elixir з ASN.1 протоколом і X.509, CMS, PKCS.
+* **[message](https://github.com/zencrypted/message)** — Мультікаст Чат Месенжер Сохацького v3 без залежностей на SwiftUI для macOS і iOS.
 
 ### Місія
 
