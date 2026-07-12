@@ -10,7 +10,7 @@
 - **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
 - **[ias](https://github.com/zencrypted/ias)** — IAS-сервер для сертифікат бандлів.
 - **[vpn](https://github.com/zencrypted/vpn)** — VPN з адмінкою і GUI клієнтами, який видає сертифікати з профілями безпеки від SYNRC/CA.
-- **[rtp](https://github.com/zencrypted/rtp)** — WebRTC-стек для групових відео-конференцій.
+- **[rtp](https://github.com/zencrypted/rtp)** — X.600 стек для групових відео-конференцій.
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
 - **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
 
