@@ -6,19 +6,19 @@
 ## Криптографічні продукти
 
 - **[asn1](https://github.com/synrc/asn1)** — ASN.1 компілятор (ISO 8824).
-- **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
-- **[rtp](https://github.com/zencrypted/rtp)** — WebRTC-стек для групових відео-конференцій.
-- **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
 - **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
-- **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
+- **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
+- **[ias](https://github.com/zencrypted/ias)** — IAS-сервер для сертифікат бандлів.
 - **[vpn](https://github.com/zencrypted/vpn)** — VPN з адмінкою і GUI клієнтами, який видає сертифікати з профілями безпеки від SYNRC/CA.
-  
-## Основні продукти ERP/1 для macOS
+- **[rtp](https://github.com/zencrypted/rtp)** — WebRTC-стек для групових відео-конференцій.
+- **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
+- **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
 
-* **[mail](https://github.com/zencrypted/mail)** — Кореспонденціально-процесуальний документообіг Сохацького згідно Наказу №40 МО.
-* **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
-* **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою v1 і v2 протоколів на SwiftUI для iOS (атестація).
-* **[acc](https://github.com/zencrypted/acc)** — Cистема автоматизації бухгалтерського обліку, кадрового діловодства та розрахунку заробітної плати.
+## Продукти для macOS
+
+- **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою v1 і v2 протоколів на SwiftUI для iOS (атестація).
+- **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
+- **[mail](https://github.com/zencrypted/mail)** — Кореспонденціально-процесуальний документообіг Сохацького згідно Наказу №40 МО.
 
 ### Місія
 
