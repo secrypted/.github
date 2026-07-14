@@ -14,6 +14,7 @@
 - **[rtp](https://github.com/zencrypted/rtp)** — MCU WebRTC стек для групових відео-конференцій.
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
 - **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
+- **[protocol](https://github.com/zencrypted/protocol)** — Zen Crypted X.422 Buddha Protocol.
 
 ## Продукти для macOS
 
