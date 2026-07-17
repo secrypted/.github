@@ -2,7 +2,6 @@
 
 Ми — open-source організація, що спеціалізується на розробці безпечних систем миттєвого обміну повідомленнями (chat messengers) та ключових компонентів публічної інфраструктури ключів (PKI). Наші проєкти базуються на стандартах ASN.1, X.509, CMS/S-MIME, LDAP, DNS та сучасних криптографічних протоколах (включаючи постквантову криптографію та MLS).
 
-
 ## Криптографічні продукти
 
 - **[asn1](https://github.com/synrc/asn1)** — ASN.1 компілятор (ISO 8824).
@@ -14,6 +13,9 @@
 - **[rtp](https://github.com/zencrypted/rtp)** — MCU WebRTC стек для групових відео-конференцій.
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
 - **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
+
+## Протоколи і політики
+
 - **[protocol](https://github.com/zencrypted/protocol)** — Zen Crypted X.422 Buddha Protocol.
 
 ## Продукти для macOS
