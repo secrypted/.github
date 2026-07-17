@@ -18,8 +18,8 @@
 
 ## Продукти для macOS
 
-- **[x509](https://github.com/zencrypted/x509)** — Легкий UDP Мультікаст Wi-Fi Месенжер Сохацького з підтримкою X.422.1 протоколу  на SwiftUI для iOS (атестація).
-- **[message](https://github.com/zencrypted/message)** —  Чат Месенжер Сохацького X.422.2 на SwiftUI для macOS і iOS (демо).
+- **[x509](https://github.com/zencrypted/x509)** — Легкий UDP Мультікаст Wi-Fi Месенжер Сохацького з підтримкою X.422.1 протоколу.
+- **[message](https://github.com/zencrypted/message)** —  Чат Месенжер Сохацького X.422.2.
 - **[mail](https://github.com/zencrypted/mail)** — Кореспонденціально-процесуальний документообіг Сохацького згідно Наказу №40 МО за протоколом X.422.3.
 
 ### Місія
